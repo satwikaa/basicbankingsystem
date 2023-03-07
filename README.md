@@ -1,5 +1,2 @@
-# Sparks-Foundation
+# sparks foundation 
 
-![](https://www.thesparksfoundationsingapore.org/images/logo_small.png)
-
-https://bankofindia.netlify.app/
